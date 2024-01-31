@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    background-image: url(./assets/kettlebell-row.png);
+    background-size: cover; 
+    background-position: center;
+}
+
+.text-principal{
+    font-size: 100px;
+    color: #ffff;
+    margin-top: 280px;
+    margin-left: 50px;
+    
+}
+
+
+.frase{
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 60px;
+    font-size: 50px;
+
+
+}
+
+
+footer{
+   
+    padding-top: 150px;
+    padding-bottom: 50px;
+    height: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  }
+ 
+ footer h2 {
+    color:white;
+    font-size: 30px;
+}
+
+.social{
+    display: flex;
+    gap: 40px;
+}
+
+.wpp{
+    border-radius: 90px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 8px;
+    
+}
+
+.ig{
+    border-radius: 90px;
+    width: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 8px;
+}
+
+
