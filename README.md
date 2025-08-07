@@ -42,4 +42,4 @@ A proposta dessa landing page é simples, direta e com visual limpo. Aqui você 
 * [ ] Melhorar responsividade para dispositivos móveis
 * [ ] Adicionar animações com CSS
 * [ ] Inserir mais seções (sobre, planos, localização, etc.)
-* [ ] Publicar online com GitHub Pages
+
